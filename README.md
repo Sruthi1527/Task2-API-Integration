@@ -1,21 +1,155 @@
-# API Integration GUI Project
+# Task2-API-Integration
 
-## Features
-- Weather API
-- Crypto API
-- News API
-- GUI Components
-- JSON Parsing
-- Pandas DataFrame
+Weather API Integration Project using Python
 
-## Technologies Used
+---
+
+# Weather API Integration Project
+
+This project fetches real-time Weather, Crypto, and News data using Python API integration with GUI support.
+
+---
+
+# Features
+
+- Weather API Integration
+- Crypto Price Fetching
+- News API Integration
+- GUI Components using Tkinter
+- JSON Data Parsing
+- Pandas Data Handling
+- User-Friendly Interface
+
+---
+
+# Technologies Used
+
 - Python 3.x
-- Tkinter
 - Requests API
 - Pandas
 - Flask
 - JSON
+- Tkinter GUI
 - GitHub
 
-## Run Command
+---
+
+# Project Structure
+
+Task2-API-Integration/
+
+├── app.py
+
+├── requirements.txt
+
+├── README.md
+
+└── screenshots/
+
+&nbsp;&nbsp;&nbsp;&nbsp;├── weather_output.png
+
+&nbsp;&nbsp;&nbsp;&nbsp;├── crypto_output.png
+
+&nbsp;&nbsp;&nbsp;&nbsp;└── news_output.png
+
+---
+
+# Installation
+
+## Install Required Modules
+
+```bash
+pip install requests pandas flask
+```
+
+---
+
+# Run Project
+
+```bash
 python app.py
+```
+
+---
+
+# API Features
+
+## Weather API
+- Fetches live weather details
+- Shows temperature, humidity, and climate condition
+
+## Crypto API
+- Fetches cryptocurrency prices
+- Supports Bitcoin and Ethereum
+
+## News API
+- Fetches latest news articles
+- Displays title and author
+
+---
+
+# GUI Components Used
+
+- Labels
+- Entry Box
+- Buttons
+- Scrolled Text Area
+- Frames
+
+---
+
+# Screenshots
+
+## Weather Output
+
+![Weather](screenshots/weather_output.png)
+
+---
+
+## Crypto Output
+
+![Crypto](screenshots/crypto_output.png)
+
+---
+
+## News Output
+
+![News](screenshots/news_output.png)
+
+---
+
+# Output Example
+
+```text
+========== WEATHER DETAILS ==========
+
+City: Hyderabad
+
+Temperature: 32 °C
+
+Humidity: 70
+
+Weather: Sunny
+```
+
+---
+
+# Future Enhancements
+
+- Add more APIs
+- Dark mode GUI
+- Database connectivity
+- User authentication
+- Real-time updates
+
+---
+
+# Author
+
+Created for Internship Task Submission
+
+---
+
+# GitHub Repository
+
+Task2-API-Integration
