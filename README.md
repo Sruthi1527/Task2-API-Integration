@@ -46,12 +46,6 @@ Task2-API-Integration/
 
 └── screenshots/
 
-&nbsp;&nbsp;&nbsp;&nbsp;├── weather_output.png
-
-&nbsp;&nbsp;&nbsp;&nbsp;├── crypto_output.png
-
-&nbsp;&nbsp;&nbsp;&nbsp;└── news_output.png
-
 ---
 
 # Installation
@@ -95,26 +89,6 @@ python app.py
 - Buttons
 - Scrolled Text Area
 - Frames
-
----
-
-# Screenshots
-
-## Weather Output
-
-![Weather](screenshots/weather_output.png)
-
----
-
-## Crypto Output
-
-![Crypto](screenshots/crypto_output.png)
-
----
-
-## News Output
-
-![News](screenshots/news_output.png)
 
 ---
 
