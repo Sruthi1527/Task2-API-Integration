@@ -118,9 +118,7 @@ Weather: Sunny
 
 ---
 
-# Author
 
-Created for Internship Task Submission
 
 ---
 
